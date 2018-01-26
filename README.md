@@ -1,6 +1,8 @@
 # The bits of the sound!
 A simple tool to bring your midi files to life with an `Arduino uno` and `tone()` library. 
 
+[Use the bits of the sound here](http://antipattern.ir/the-bits-of-the-sound/index.html)
+
 1. Easy interface
 2. Completely written in JavaScript
 3. It parses the `mid` file in the browser and it won't send it anywhere!
