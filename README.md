@@ -8,7 +8,7 @@ A simple tool to bring your midi files to life with an `Arduino uno` and `tone()
 5. Dedicated with ❤ to the one who I love.
 
 
-Libraries I used, licenss of these libraries can be found on their repository:
+Libraries I used, lisences of these libraries can be found on their repository:
 1. ToneJS
 2. MidiConvert
 3. VueJS
